@@ -27,10 +27,15 @@ figure img{
     width: auto;
 
 }
-
-main {
-
+#riassunto-tabellare thead tr{
+    background-color: lightblue;
 }
+
+#riassunto-tabellare tbody tr:nth-child(odd),
+#riassunto-tabellare tfoot tr:nth-child(odd) {
+    background-color: #D6EEEE;
+  }
+
 #scrittore{
     
 }
