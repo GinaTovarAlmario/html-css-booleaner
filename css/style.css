@@ -27,6 +27,10 @@ figure img{
     width: auto;
 
 }
+.testo-evidenziato{
+    background-color: yellow;
+}
+
 #riassunto-tabellare thead tr{
     background-color: lightblue;
 }
@@ -46,6 +50,10 @@ figure img{
 h4{
     color: grey;
 }
+
+ul {
+    margin: 0 ;
+ }
 
 footer .foto {
     width: 200px;
