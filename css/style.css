@@ -1,7 +1,8 @@
 .contenitore {
-    background: grey;
-    width: auto;
-    height: auto;
+    background:whitesmoke;
+    border-color: red;
+    max-width: ;width: 1000px;
+    margin: 50px auto;
 }
 
 header {
