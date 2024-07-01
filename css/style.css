@@ -1,21 +1,41 @@
+body{
+    margin: 0;
+}
+
 .contenitore {
     background:whitesmoke;
     border-color: red;
-    max-width: ;width: 1000px;
-    margin: 50px auto;
+    max-width:1000px;
+    margin: 0px auto;
 }
 
-header {
-    text-align:center;
-}
-body,
+
 figure {
     margin: 0;
     background-image:url('../img/pattern.png') ;
     background-color: rgb(72, 70, 193);
+    text-align: left;
+    padding: 40px 0px;
 }
+figure img{
+    width: 200px;
+    
+}
+
+#foto-tim .galleria img {
+    height: 300px;
+    width: auto;
+
+}
+
 main {
-    padding-left: 10px;
+
+}
+#scrittore{
+    
+}
+#data-pubblicazione{
+
 }
 
 h4{
