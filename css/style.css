@@ -1,10 +1,22 @@
-.contenitore{
+.contenitore {
     background: grey;
     width: auto;
     height: auto;
 }
 
-
-header{
+header {
     text-align:center;
+}
+body,
+figure {
+    margin: 0;
+    background-image:url('../img/pattern.png') ;
+    background-color: rgb(72, 70, 193);
+}
+main {
+    padding-left: 10px;
+}
+
+h4{
+    color: grey;
 }
